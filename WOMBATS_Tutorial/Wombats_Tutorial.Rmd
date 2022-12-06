@@ -1,0 +1,44 @@
+---
+title: "Wombats Tutorial"
+author: "Kate Saunders"
+date: "2022-12-06"
+output: ioslides_presentation
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome
+
+-   Who are you?
+-   How do you use R?
+-   Why are you interested in natural disasters?
+-   How do you learn new things in R?
+-   What do you hope to get out of today?
+
+## Goals for today
+
+Create visualisations of:
+
+-   Changing temperature extremes
+
+-   Weather/hazard forecasts: Streamflow
+
+-   Impact forecasts: Road closures
+
+<!-- ## Changing temperature extremes -->
+
+<!-- ![](ClimateStripes/climateStripes.png){width="600"} -->
+
+## Value-chain
+
+<center>
+![](Value_chain.png){
+width=95% }
+</center>
+
+![]()
